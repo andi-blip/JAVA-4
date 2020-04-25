@@ -1,0 +1,194 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.container{
+	width: 100%;
+	margin: 0 auto;
+}
+.container{
+	background:linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('images/a.jpg');
+	width:100vh;
+	height:70vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+}
+#pozicioni{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	
+}
+#pozicioni p{
+	margin-left: 80px;
+}
+span{
+	display: block;
+}
+#pozicioni h2{
+	color: white;
+	font-size: 40px;
+}
+#pozicioni p{
+	
+    font-size: 10px;
+    color: #98c398;
+}
+.linqet a{
+	text-decoration: none;
+	color: #f4f4f4;
+	padding-top: 10px;
+	padding: 0 6px;
+	border: 1px solid black;
+	background-color: #544242;
+	border-radius: 40px;
+	padding: 7px;
+	font-size: 14px;
+	margin-left: 8px;
+}
+#shtyje{
+	margin-bottom: 21px;
+}
+.linqet a:hover{
+	background-color: pink;
+	transition: 1s ease;
+	color: black;
+
+}
+.container-2{
+	width: 100vh;
+	height: 40vh;
+	margin:0 auto;
+	background-color: #f4f4f4;
+	
+	
+
+}.rreshto{
+	display: flex;
+	
+	align-items: center;
+
+
+}
+#abc{
+	text-align: center;
+	font-size: 25px;
+	padding-top:70px;
+	padding-bottom:35px; 
+}
+
+.njejt p{
+	font-size: 13px;
+	display: flex;
+	padding-top: 8px;
+
+
+}#prova{
+	display: flex;
+	justify-content: space-between;
+}
+.njejt {
+	text-align: center;
+
+}
+.container-3 {
+	width:100vh;
+	margin:0 auto; 
+	display: flex;
+	flex-direction: column;
+}
+#foto{
+	background:linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('images/b.jpg') center;
+	height: 150px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: relative;
+}
+#ngjyra h3{
+	color: #f4f4f4;
+	display: flex;
+	align-items: center;
+	padding-left: 60px;
+	padding-top: 70px;
+	
+	text-align: center;
+}
+#tabelat{
+	display: flex;
+	flex-direction: column;
+
+}
+.container-4{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	background-color: #f4f4f4;
+	padding-top: 50px;
+
+
+}
+#fotoja img{
+	width: 60%
+}
+#fotoja{
+	display: flex;
+	
+	justify-content: center;
+
+
+}
+#container-4-shkronjat ul li{
+	color: gray;
+	margin-left: 8px;
+	margin-bottom: 3px;
+	}
+#container-4-shkronjat li:nth-last-child(1){
+	padding-bottom: 20px;
+
+
+}
+#container-4-shkronjat h2{
+	margin-bottom: 10px;
+	margin-left: -8px;
+}
+#container-4-shkronjat a{
+	text-decoration: none;
+	color: #ffffff;
+	border:1px solid black;
+	border-radius: 30px;
+	background-color: gray;
+	padding: 3px;
+	margin-top: 4px;
+
+}
+#container-4-shkronjat a:hover{
+	background-color: red;
+	transition: 1s ease;
+	color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
